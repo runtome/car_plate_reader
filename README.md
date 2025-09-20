@@ -93,6 +93,7 @@ Also install **Tesseract OCR** on your system.
 python main.py
 ```
 3. Press **q** in the display window to quit.
-```bash
 
-```
+
+## 📜 License
+This project is open-source under the MIT License.
